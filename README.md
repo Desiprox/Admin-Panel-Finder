@@ -57,5 +57,5 @@ This tool run brute-force attack against site directories to get admin panel he 
       Installed Tool Execution: ptraker
     </td>
   </tr>
-  <center><img src="http://i.imgur.com/xUgmNRd.png" /></center>
 </table>
+ <center><img src="http://i.imgur.com/xUgmNRd.png" /></center>
