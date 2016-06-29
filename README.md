@@ -58,4 +58,4 @@ This tool run brute-force attack against site directories to get admin panel he 
     </td>
   </tr>
 </table>
- <center><img src="http://i.imgur.com/xUgmNRd.png" /></center>
+ <center><img src="http://i.imgur.com/vB5fMuv.png" /></center>
