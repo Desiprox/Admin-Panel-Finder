@@ -2,7 +2,7 @@
 
 <h3>#New Tool Created By D3siprox Team</h3>
 
-![](logo.png)
+<center><img src="http://www.hostingpics.net/viewer.php?id=748325logo.png" /></center>
 
 <table border="0" cellpadding="2" cellspacing="5" width="100%">
   <tr>
@@ -57,4 +57,5 @@ This tool run brute-force attack against site directories to get admin panel he 
       Installed Tool Execution: ptraker
     </td>
   </tr>
+  <center><img src="http://www.hostingpics.net/viewer.php?id=648889usage.png" /></center>
 </table>
